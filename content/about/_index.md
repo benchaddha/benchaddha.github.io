@@ -6,13 +6,10 @@ categories: ["pages"]
 draft: false
 ---
 
-I am a PhD researcher interested in trustworthy AI, efficient model design, and computational creativity.
+I work on evaluation and infrastructure for AI agents, with an emphasis on interpretability and benchmarking under distribution shift. My goal is to make model behavior observable, comparable, and reproducible across real-world settings.
 
-## Research interests
+I design metric-driven evaluation pipelines that combine structured extraction, instrumentation, and systematic comparison across agent configurations. I am particularly interested in how evaluation systems degrade over time, how infrastructure choices shape observed behavior, and how controlled intervention can surface latent failure modes.
 
-- Representation learning
-- Responsible and interpretable machine learning
-- Audio + music information retrieval
-- Reproducible research tooling
+Alongside this work, I develop experimental tools for computational music, including embedding-based retrieval systems and listening evaluation frameworks. I also compose music as a parallel creative discipline.
 
-Outside research, I enjoy making music and building small, reliable software.
+I’m interested in building systems that make complex behavior measurable without oversimplifying it.
