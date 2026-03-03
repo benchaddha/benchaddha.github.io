@@ -10,4 +10,6 @@ I build evaluation systems for AI agents and experimental tools for computationa
 
 My work focuses on interpretability, benchmarking, and real-world task execution under distribution shift. I design metric-driven evaluation pipelines and reproducible infrastructure that make model behavior legible.
 
-I also compose music as a parallel creative discipline
+I also compose music as a parallel creative discipline.
+
+<p class="home-current-focus">Current focus: <span>mechanistic interpretability</span></p>
