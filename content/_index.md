@@ -8,15 +8,6 @@ draft: false
 
 I build evaluation systems for AI agents and experimental tools for computational music.
 
-My current work focuses on interpretability methods that trace model behavior and failure modes under controlled interventions.
-I design benchmarking pipelines with structured extraction, reproducibility checks, and metric-driven comparison across agent settings.
-I also build real-world agent infrastructure and computational music experiments that combine embeddings, retrieval, and human listening evaluation.
+My work focuses on interpretability, benchmarking, and real-world task execution under distribution shift. I design metric-driven evaluation pipelines and reproducible infrastructure that make model behavior legible.
 
-## Featured links
-
-- [About](/about/)
-- [Latest writing](/writing/)
-- [Research log](/notes/)
-- [Projects](/projects/)
-- [CV](/cv/)
-- [Contact](/contact/)
+I also compose music as a parallel creative discipline
