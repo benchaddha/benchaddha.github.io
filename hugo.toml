@@ -1,0 +1,95 @@
+baseURL = "https://<username>.github.io/ben-site/"
+languageCode = "en-us"
+title = "Ben Chaddha"
+theme = "PaperMod"
+enableRobotsTXT = true
+summaryLength = 30
+
+[pagination]
+  pagerSize = 10
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+  section = ["HTML", "RSS"]
+  taxonomy = ["HTML", "RSS"]
+  term = ["HTML", "RSS"]
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+[params]
+  description = "Academic website for writing, notes, and projects."
+  author = "Ben Chaddha"
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowRssButtonInSectionTermList = true
+  ShowShareButtons = false
+  comments = false
+  copyright = "© {year} Ben Chaddha"
+
+  [params.homeInfoParams]
+    Title = "Ben Chaddha"
+    Content = "PhD researcher sharing writing, technical notes, and selected projects."
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/<username>"
+
+  [[params.socialIcons]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/<username>/"
+
+  [[params.socialIcons]]
+    name = "email"
+    url = "mailto:you@example.com"
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "writing"
+    name = "Writing"
+    url = "/writing/"
+    weight = 20
+
+  [[menu.main]]
+    identifier = "notes"
+    name = "Notes"
+    url = "/notes/"
+    weight = 30
+
+  [[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/projects/"
+    weight = 40
+
+  [[menu.main]]
+    identifier = "cv"
+    name = "CV"
+    url = "/cv/"
+    weight = 50
+
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 60
+
+[markup]
+  [markup.highlight]
+    noClasses = false
+    lineNos = true
+    style = "monokai"
+
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
