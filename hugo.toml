@@ -21,6 +21,7 @@ summaryLength = 30
 [params]
   description = "Academic website for writing, notes, and projects."
   author = "Ben Chaddha"
+  math = false
   defaultTheme = "auto"
   ShowReadingTime = true
   ShowPostNavLinks = true
