@@ -1,13 +1,13 @@
 ---
-title: "Music Embedding Lab"
+title: "Computational Music Systems Lab"
 date: 2026-03-03T12:00:00Z
-tags: ["music", "embeddings", "audio"]
+tags: ["music", "embeddings", "interpretability"]
 categories: ["projects"]
 draft: false
 ---
 
-An experimental toolkit for learning and evaluating audio embeddings for similarity and discovery.
+An experimental platform for computational music research, focused on embedding quality, interpretability, and retrieval behavior.
 
-- Feature extraction pipelines
-- Contrastive training recipes
-- Listening-study dashboards
+- Trains and evaluates music embeddings against genre, motif, and structural similarity benchmarks
+- Uses attribution and representation-probing analyses to interpret model decisions over audio features
+- Integrates retrieval experiments with listening-study protocols to validate ranking quality
