@@ -6,4 +6,4 @@ categories: ["sections"]
 draft: false
 ---
 
-Short, technical notes and derivations.
+A public research log documenting experiments, interpretability notes, evaluation results, and working hypotheses.

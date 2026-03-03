@@ -34,7 +34,7 @@ summaryLength = 30
 
   [params.homeInfoParams]
     Title = "Ben Chaddha"
-    Content = "PhD researcher sharing writing, technical notes, and selected projects."
+    Content = "I build evaluation systems for AI agents and experimental tools for computational music."
 
   [[params.socialIcons]]
     name = "github"
@@ -63,7 +63,7 @@ summaryLength = 30
 
   [[menu.main]]
     identifier = "notes"
-    name = "Notes"
+    name = "Research Log"
     url = "/notes/"
     weight = 30
 

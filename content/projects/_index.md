@@ -6,4 +6,4 @@ categories: ["sections"]
 draft: false
 ---
 
-Selected research and engineering projects.
+Selected systems for agent evaluation, interpretability analysis, and computational music research.
