@@ -6,6 +6,7 @@ categories: ["blog"]
 draft: false
 ---
 
+Placeholder Notes
 A simple process beats a complicated process:
 
 1. Start with a falsifiable question.

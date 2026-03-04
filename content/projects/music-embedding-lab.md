@@ -8,6 +8,7 @@ draft: false
 
 An experimental platform for computational music research, focused on embedding quality, interpretability, and retrieval behavior.
 
-- Trains and evaluates music embeddings against genre, motif, and structural similarity benchmarks
+Placeholder Project
+<!-- - Trains and evaluates music embeddings against genre, motif, and structural similarity benchmarks
 - Uses attribution and representation-probing analyses to interpret model decisions over audio features
-- Integrates retrieval experiments with listening-study protocols to validate ranking quality
+- Integrates retrieval experiments with listening-study protocols to validate ranking quality -->

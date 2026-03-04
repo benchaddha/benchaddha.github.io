@@ -8,6 +8,8 @@ draft: false
 
 A benchmarking system for evaluating autonomous agents on multi-step, real-world tasks with reproducible scoring.
 
-- Defines task suites with structured input/output schemas for reliable grading
+Placeholder Project
+
+<!-- - Defines task suites with structured input/output schemas for reliable grading
 - Tracks trajectory-level metrics (latency, tool-use efficiency, and failure taxonomy)
-- Produces reproducible evaluation reports for cross-model and cross-prompt comparison
+- Produces reproducible evaluation reports for cross-model and cross-prompt comparison -->

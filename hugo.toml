@@ -19,7 +19,7 @@ summaryLength = 30
   category = "categories"
 
 [params]
-  description = "Academic website for writing, notes, and projects."
+  description = "Website for writing, notes, and projects."
   author = "Ben Chaddha"
   math = false
   defaultTheme = "auto"
@@ -38,15 +38,15 @@ summaryLength = 30
 
   [[params.socialIcons]]
     name = "github"
-    url = "https://github.com/<username>"
+    url = "https://github.com/benchaddha"
 
   [[params.socialIcons]]
     name = "linkedin"
-    url = "https://www.linkedin.com/in/<username>/"
+    url = "https://www.linkedin.com/in/benjamin-chaddha/"
 
   [[params.socialIcons]]
     name = "email"
-    url = "mailto:you@example.com"
+    url = "mailto:BChaddha21@gmail.com"
 
 [menu]
   [[menu.main]]
